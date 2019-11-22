@@ -72,6 +72,6 @@
     background-color: wheat;
     border: .2rem;
     border-color: black;
-    background-size: contain;
-background-repeat: no-repeat;
+   border-style:solid;
+   border-radius: 5%;
 }
