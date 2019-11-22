@@ -68,3 +68,10 @@
 .Spacefooter{
     margin-top: 6.5rem;
 }
+.menuBG{
+    background-color: wheat;
+    border: .2rem;
+    border-color: black;
+   border-style:solid;
+   border-radius: 5%;
+}
