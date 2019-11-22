@@ -28,3 +28,10 @@
 .Spacefooter{
     margin-top: 6.5rem;
 }
+.menuBG{
+    background-color: wheat;
+    border: .2rem;
+    border-color: black;
+    background-size: contain;
+background-repeat: no-repeat;
+}
