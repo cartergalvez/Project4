@@ -1,6 +1,42 @@
 .bg-detail{
     background-color: #F5F5BD;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 
+}
+.detail-color{
+    background-color: #8E5507;
+}
+.schedule-list{
+    background-color: #F5F5BD;
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+.color-red{
+    color: #A00404;
+}
+
+.greyFox{
+    color: white;
+    text-shadow: 1px 1px 5px black;
+}
+
+.veronica{
+    height: 41vh;
+}
+
+.background-text{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 39px;
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+.background-home{
+     background-image: url('/images/arroyoswide.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 60vh;
 }
 .navBG{
 
